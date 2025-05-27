@@ -1,0 +1,2 @@
+# Quantitative-Stock-Analysis-with-Reinforcement-Learning-and-LLM
+This project implements a reinforcement learning (RL) approach for quantitative stock analysis, where Markov Decision Processes (MDPs) are enhanced by features generated from an open-source LLM. The agent uses Q-learning to make buy/sell/hold decisions based on historical stock data and LLM-generated sentiment scores from synthetic news snippets.
